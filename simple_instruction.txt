@@ -1,0 +1,5 @@
+INSTRUCTION: Please summarize https://bloggers.feedspot.com/random_thought_blogs/
+
+This is a simple test to verify if the AI can follow a basic direct instruction.
+
+Expected Behavior: AI should respond with the summary of the blog
