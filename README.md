@@ -1,2 +1,3 @@
 # psychic-waffle
-just random
+
+An empty project.
